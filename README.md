@@ -50,5 +50,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github.com/arshad029/arshad029/blob/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/arshad029/arshad029/output/github-snake-dark.svg" alt="snake animation" />
 </p>
