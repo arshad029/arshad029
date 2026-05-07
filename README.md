@@ -15,7 +15,7 @@
 - 🗄️ Also learning **MySQL & Database Design**
 - 🚀 Building real-world projects to strengthen my skills
 - 📫 Reach me at: **arshadali029023@gmail.com**
-- 💼 Open to: **www.linkedin.com/in/arshad-ali-58a4a7290**
+- 💼 Open to opportunities and collaborations
 
 ---
 
@@ -34,6 +34,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshad029&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshad029&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad029&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
@@ -42,13 +47,17 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/arshad-ali-58a4a7290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@gmail.com">
+
+  <a href="mailto:arshadali029023@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/arshad029/arshad029/output/github-snake-dark.svg" alt="snake animation" />
 </p>
